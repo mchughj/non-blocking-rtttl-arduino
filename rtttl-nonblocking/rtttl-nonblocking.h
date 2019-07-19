@@ -487,7 +487,7 @@ class Player {
 		}
 		
 		char pop_byte(){
-			get_byte(nextPos++);
+			return get_byte(nextPos++);
 			/*
 			char read = get_byte(nextPos++);
 			//Serial.print("Popped: '");
