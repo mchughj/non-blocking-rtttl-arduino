@@ -1,4 +1,4 @@
-#include <rtttl.h>
+#include <rtttl-nonblocking.h>
 
 //const char song_P[] PROGMEM = "Ghostbusters:d=4,o=5,b=180:4c5,4c5,8e5,8f5,8g5,8p, 4a#5,4a#5,4f5,4f5,4c5,4c5,8e5,8f5,8g5,8p,4a#5,4a#5,4f5";
 //const char song_P[] PROGMEM = "dkong_level:d=4,o=5,b=200:c6,32p,8d6,8p,f6,8p,8d6,16p,8c6,16p,8d6,16p,a#";
